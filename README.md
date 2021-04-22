@@ -1,2 +1,1 @@
-# google-first-version
-Google Ana Sayfasını Tasarlamak
+# [Click to see](https://erdinckurt.github.io/google-first-version/)
